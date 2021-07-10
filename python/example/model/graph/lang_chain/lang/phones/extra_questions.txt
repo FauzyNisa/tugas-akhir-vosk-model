@@ -1,0 +1,9 @@
+a_B aa_B ae_B ah_B b_B ba_B bo_B c_B ce_B co_B d_B da_B de_B di_B du_B e_B eh_B ey_B f_B fa_B fo_B g_B ga_B gi_B h_B ha_B i_B ih_B iy_B j_B ja_B ju_B k_B ka_B ke_B ki_B ko_B l_B la_B le_B lu_B m_B ma_B me_B mi_B mu_B n_B na_B nan_B ng_B ni_B o_B oy_B p_B pa_B pe_B pi_B pu_B r_B ra_B re_B ri_B ru_B s_B sa_B se_B si_B su_B t_B ta_B te_B ti_B to_B tu_B u_B uw_B v_B w_B wa_B we_B wo_B y_B ya_B yi_B yu_B 
+a_E aa_E ae_E ah_E b_E ba_E bo_E c_E ce_E co_E d_E da_E de_E di_E du_E e_E eh_E ey_E f_E fa_E fo_E g_E ga_E gi_E h_E ha_E i_E ih_E iy_E j_E ja_E ju_E k_E ka_E ke_E ki_E ko_E l_E la_E le_E lu_E m_E ma_E me_E mi_E mu_E n_E na_E nan_E ng_E ni_E o_E oy_E p_E pa_E pe_E pi_E pu_E r_E ra_E re_E ri_E ru_E s_E sa_E se_E si_E su_E t_E ta_E te_E ti_E to_E tu_E u_E uw_E v_E w_E wa_E we_E wo_E y_E ya_E yi_E yu_E 
+a_I aa_I ae_I ah_I b_I ba_I bo_I c_I ce_I co_I d_I da_I de_I di_I du_I e_I eh_I ey_I f_I fa_I fo_I g_I ga_I gi_I h_I ha_I i_I ih_I iy_I j_I ja_I ju_I k_I ka_I ke_I ki_I ko_I l_I la_I le_I lu_I m_I ma_I me_I mi_I mu_I n_I na_I nan_I ng_I ni_I o_I oy_I p_I pa_I pe_I pi_I pu_I r_I ra_I re_I ri_I ru_I s_I sa_I se_I si_I su_I t_I ta_I te_I ti_I to_I tu_I u_I uw_I v_I w_I wa_I we_I wo_I y_I ya_I yi_I yu_I 
+a_S aa_S ae_S ah_S b_S ba_S bo_S c_S ce_S co_S d_S da_S de_S di_S du_S e_S eh_S ey_S f_S fa_S fo_S g_S ga_S gi_S h_S ha_S i_S ih_S iy_S j_S ja_S ju_S k_S ka_S ke_S ki_S ko_S l_S la_S le_S lu_S m_S ma_S me_S mi_S mu_S n_S na_S nan_S ng_S ni_S o_S oy_S p_S pa_S pe_S pi_S pu_S r_S ra_S re_S ri_S ru_S s_S sa_S se_S si_S su_S t_S ta_S te_S ti_S to_S tu_S u_S uw_S v_S w_S wa_S we_S wo_S y_S ya_S yi_S yu_S 
+SIL 
+SIL_B 
+SIL_E 
+SIL_I 
+SIL_S 
